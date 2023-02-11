@@ -1,6 +1,6 @@
 {
 	"name": "pac-stac",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"private": true,
 	"workspaces": [
 		"app/*"
@@ -14,6 +14,11 @@
 		"dev": "turbo run dev"
 	},
 	"devDependencies": {
+		"@lightrix/config": "0.0.7",
+		"@types/node": "18.13.0",
 		"turbo": "latest"
+	},
+	"publishConfig": {
+		"access": "restricted"
 	}
 }
