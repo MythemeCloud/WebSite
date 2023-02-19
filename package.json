@@ -5,7 +5,7 @@
 	"workspaces": [
 		"app/**"
 	],
-	"packageManager": "pnpm@7.26.3",
+	"packageManager": "pnpm@7.27.1",
 	"engines": {
 		"node": ">=14.0.0"
 	},
