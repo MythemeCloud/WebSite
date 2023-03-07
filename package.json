@@ -1,7 +1,6 @@
 {
 	"name": "mytheme-web",
 	"version": "0.0.1",
-	"description": "📄 Starter template for AstroJS on PAC-STAC.",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mytheme-cloud/mytheme-web.git"
