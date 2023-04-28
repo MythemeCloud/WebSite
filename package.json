@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 	"name": "mytheme-web",
 	"version": "0.0.1",
 	"repository": {
@@ -12,21 +11,6 @@
 	},
 	"license": "MIT",
 	"private": true,
-=======
-	"name": "pac-stac-web",
-	"version": "0.0.1",
-	"description": "📄 Starter template for AstroJS on PAC-STAC.",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/astro-starters/pac-stac-web.git"
-	},
-	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
-	"bugs": {
-		"url": "https://github.com/astro-starters/pac-stac-web/issues"
-	},
-	"license": "MIT",
-	"private": false,
->>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
@@ -68,10 +52,6 @@
 		"zod": "3.21.4"
 	},
 	"publishConfig": {
-<<<<<<< HEAD
 		"access": "restricted"
-=======
-		"access": "public"
->>>>>>> upstream/main
 	}
 }
