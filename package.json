@@ -10,7 +10,11 @@
 		"url": "https://github.com/mytheme-cloud/mytheme-web/issues"
 	},
 	"license": "MIT",
+<<<<<<< HEAD
 	"private": true,
+=======
+	"private": false,
+>>>>>>> upstream/main
 	"keywords": ["astro", "starter", "pac-stac"],
 	"scripts": {
 		"build": "astro check && astro build",
