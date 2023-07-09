@@ -11,11 +11,7 @@
 	},
 	"license": "MIT",
 	"private": true,
-	"keywords": [
-		"astro",
-		"starter",
-		"pac-stac"
-	],
+	"keywords": ["astro", "starter", "pac-stac"],
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
@@ -55,4 +51,3 @@
 		"access": "restricted"
 	}
 }
-
