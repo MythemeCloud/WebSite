@@ -8,7 +8,11 @@
 	},
 	"repository": {
 		"type": "git",
+<<<<<<< HEAD
 		"url": "git+https://github.com/mytheme-cloud/mytheme-web.git"
+=======
+		"url": "git+https://github.com/astro-starters/pac-stac-web.git"
+>>>>>>> upstream/main
 	},
 	"license": "MIT",
 	"scripts": {
