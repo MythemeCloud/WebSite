@@ -1,8 +1,24 @@
 {
 	"name": "mytheme-web",
 	"version": "0.0.1",
+<<<<<<< HEAD
 	"private": true,
 	"homepage": "https://github.com/mytheme-cloud/mytheme-web#readme",
+=======
+	"private": false,
+<<<<<<< HEAD
+	"description": "📄 Starter template for AstroJS on PAC-STAC.",
+=======
+	"type": "module",
+	"description": "📄 Starter template for AstroJS.",
+>>>>>>> upstream/main
+	"keywords": [
+		"astro",
+		"starter",
+		"pac-stac"
+	],
+	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
+>>>>>>> upstream/main
 	"bugs": {
 		"url": "https://github.com/mytheme-cloud/mytheme-web/issues"
 	},
