@@ -1,16 +1,8 @@
 {
 	"name": "mytheme-web",
 	"version": "0.0.1",
-<<<<<<< HEAD
 	"private": true,
-=======
-	"private": false,
-<<<<<<< HEAD
 	"description": "📄 Starter template for AstroJS on PAC-STAC.",
-=======
-	"description": "📄 Starter template for AstroJS.",
->>>>>>> upstream/main
->>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
