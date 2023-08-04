@@ -1,24 +1,13 @@
 {
 	"name": "mytheme-web",
 	"version": "0.0.1",
-<<<<<<< HEAD
 	"private": true,
-	"homepage": "https://github.com/mytheme-cloud/mytheme-web#readme",
-=======
-	"private": false,
-<<<<<<< HEAD
-	"description": "📄 Starter template for AstroJS on PAC-STAC.",
-=======
-	"type": "module",
-	"description": "📄 Starter template for AstroJS.",
->>>>>>> upstream/main
 	"keywords": [
 		"astro",
 		"starter",
 		"pac-stac"
 	],
-	"homepage": "https://github.com/astro-starters/pac-stac-web#readme",
->>>>>>> upstream/main
+	"homepage": "https://github.com/mytheme-cloud/mytheme-web#readme",
 	"bugs": {
 		"url": "https://github.com/mytheme-cloud/mytheme-web/issues"
 	},
@@ -27,6 +16,7 @@
 		"url": "git+https://github.com/mytheme-cloud/mytheme-web.git"
 	},
 	"license": "MIT",
+	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
@@ -42,7 +32,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.4",
 		"@tailwindcss/typography": "0.5.9",
-		"astro": "2.9.7",
+		"astro": "2.10.1",
 		"astro-compress": "1.1.50",
 		"astro-critters": "1.1.40",
 		"astro-rome": "0.1.18",
