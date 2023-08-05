@@ -17,7 +17,6 @@
 		"url": "git+https://github.com/mytheme-cloud/mytheme-web.git"
 	},
 	"license": "MIT",
-	"type": "module",
 	"scripts": {
 		"build": "astro check && astro build",
 		"start": "astro dev"
