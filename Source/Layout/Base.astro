@@ -1,7 +1,12 @@
 ---
 import "@Style/Base.css";
 
-const { title = "Mytheme", description = "" } = Astro.props;
+const { Title = "Mytheme", Description = "" } = Astro.props;
+
+interface Props {
+	Title: string;
+	Description: string;
+}
 ---
 
 <!DOCTYPE html>
@@ -13,9 +18,9 @@ const { title = "Mytheme", description = "" } = Astro.props;
 		</script>
 
 		<!-- Meta -->
-		<title>{title}</title>
+		<title>{Title}</title>
 		<meta charset="utf-8" />
-		<meta name="description" content={description} />
+		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
 		<!-- TODO Define your color theme in hex here -->
 		<meta name="theme-color" content="" />
