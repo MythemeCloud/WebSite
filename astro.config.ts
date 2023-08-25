@@ -19,7 +19,7 @@ export default defineConfig({
 	integrations: [
 		import.meta.env.MODE === "production" ? Worker() : null,
 		SiteMap(),
-		Critters({ Logger: 1, }),
+		Critters({ Logger: 1 }),
 		PreFetch(),
 		Rome({ Logger: 1 }),
 		Compress({ Logger: 1 }),
