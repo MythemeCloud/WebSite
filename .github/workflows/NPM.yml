@@ -26,7 +26,11 @@ jobs:
         steps:
             - uses: actions/checkout@v4.1.1
 
+<<<<<<< HEAD
             - uses: actions/setup-node@v3.8.2
+=======
+            - uses: actions/setup-node@v4.0.0
+>>>>>>> upstream/main
               with:
                   node-version: "18"
                   registry-url: "https://registry.npmjs.org"
