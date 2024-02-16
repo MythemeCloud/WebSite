@@ -32,7 +32,11 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.7",
 		"@tailwindcss/typography": "0.5.10",
+<<<<<<< HEAD
 		"astro": "4.3.7",
+=======
+		"astro": "4.3.6",
+>>>>>>> 6a51d0a2ed87f30902c2592e15a1329521d9324f
 		"astro-capo": "0.0.1",
 		"astro-compress": "2.2.10",
 		"astro-critters": "2.1.1",
@@ -41,7 +45,11 @@
 		"autoprefixer": "10.4.17",
 		"cssnano": "6.0.3",
 		"cssnano-preset-advanced": "6.0.3",
+<<<<<<< HEAD
 		"dotenv": "16.4.4",
+=======
+		"dotenv": "16.4.3",
+>>>>>>> 6a51d0a2ed87f30902c2592e15a1329521d9324f
 		"firebase": "10.8.0",
 		"postcss": "8.4.35",
 		"postcss-combine-duplicated-selectors": "10.0.3",
