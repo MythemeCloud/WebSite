@@ -1,4 +1,4 @@
-# [PAC-STAC] 📄
+# 📄 [PAC-STAC]
 
 Starter template for AstroJS on PAC-STAC.
 
