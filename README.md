@@ -1,5 +1,3 @@
-# 📄 [PAC-STAC]
+# 🗺️ [Website]
 
-AstroJS Starter on PAC-STAC.
-
-[PAC-STAC]: https://github.com/AstroStarter/PAC-STAC
+[Website]: https://github.com/AstroStarter/PAC-STAC
