@@ -24,11 +24,7 @@
 		"@astrojs/prefetch": "0.4.1",
 		"@astrojs/sitemap": "3.1.4",
 		"@playform/build": "0.0.8",
-<<<<<<< HEAD
 		"@playform/compress": "0.0.4",
-=======
-		"@playform/compress": "0.0.3",
->>>>>>> e953c293ea7da4203b6c356d9b5b176c1887bbd9
 		"@playform/format": "0.0.2",
 		"@playform/inline": "0.0.2",
 		"@swup/body-class-plugin": "3.2.0",
@@ -39,11 +35,7 @@
 		"@tailwindcss/aspect-ratio": "0.4.2",
 		"@tailwindcss/forms": "0.5.7",
 		"@tailwindcss/typography": "0.5.13",
-<<<<<<< HEAD
-		"astro": "4.8.1",
-=======
 		"astro": "4.8.2",
->>>>>>> e953c293ea7da4203b6c356d9b5b176c1887bbd9
 		"astro-capo": "0.0.1",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
