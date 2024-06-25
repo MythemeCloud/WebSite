@@ -25,11 +25,7 @@
 		"@astrojs/sitemap": "3.1.6",
 		"@playform/build": "0.0.11",
 		"@playform/compress": "0.0.13",
-<<<<<<< HEAD
 		"@playform/format": "0.0.6",
-=======
-		"@playform/format": "0.0.5",
->>>>>>> 9e8279c901ad69b72eb9896fa011c3671897ef8f
 		"@playform/inline": "0.0.7",
 		"@swup/body-class-plugin": "3.2.0",
 		"@swup/head-plugin": "2.2.0",
