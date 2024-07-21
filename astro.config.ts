@@ -2,7 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "https://Mytheme.Cloud",
+	site: "HTTPS://Mytheme.Cloud",
 	compressHTML: true,
 	prefetch: true,
 	integrations: [
