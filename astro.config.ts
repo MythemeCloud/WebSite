@@ -6,7 +6,7 @@ export default defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	site: "HTTPS://Mytheme.Cloud",
+	site: "https://Mytheme.Cloud",
 	compressHTML: true,
 	prefetch: {
 		defaultStrategy: "hover",

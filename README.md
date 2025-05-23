@@ -1,3 +1,3 @@
 # [WebSite 🗾]
 
-[WebSite 🗾]: HTTPS://github.com/AstroStarter/PAC-STAC
+[WebSite 🗾]: https://github.com/AstroStarter/PAC-STAC
